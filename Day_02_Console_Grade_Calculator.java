@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class GradeCalcD2 {
+public class Day_02_Console_Grade_Calculator {
     public static void main(String[] args){
         Scanner sc = new Scanner(System.in);
         double mark = -1.0;
